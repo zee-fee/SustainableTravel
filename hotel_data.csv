@@ -1,0 +1,68 @@
+id,destination,country,continent,latitude,longitude,environment,activities,carbon footprint (tons CO2),most_popular_season,rating,name
+1,Maldives,Maldives,Asia,3.4167,72.8333,beach,swimming; snorkeling; diving; fishing,5000,December-March,4.8,Sunset Villas Maldives
+2,Cancun,Mexico,North America America,21.1667,86.8333,beach, swimming; golf; spa; shopping,8000,December-April,4.5,Tides Cancun Resort & Spa
+3,Paris,France,Europe,48.8567,2.3508,city, museums; restaurants; shopping; parks,12000,May-August,4.7,L'Hotel Paris
+4,Big Sur,United States,North America,36.3569,121.7688,countryside, beach; hiking; camping; swimming; wildlife viewing,3000,March-November,4.9,Ventana Big Sur
+5,Queenstown,New Zealand,Oceania,-45.0167,168.6667,mountains, skiing; hiking; biking; waterfall; lake activities,4000,June-October,4.8,Titilake Queenstown
+6,Costa Rica,Costa Rica,North America,9.7367,-83.7534,jungle, beach; zip lining; wildlife viewing; swimming; surfing,6000,November-May,4.6,Arenas del Mar Costa Rica
+7,Switzerland,Switzerland,Europe,46.8182,8.2275,mountains, skiing; hiking; lake activities; wellness,7000,December-April,4.9,Chalet Mountains Switzerland
+8,Bali,Indonesia,Asia,-8.3333,115.1667,countryside, beach; yoga; swimming; temples; shopping; cuisine,9000,March-October,4.7,Padi Bali Wellness Resort
+9,Sydney,Australia,Oceania,-33.8569,151.2153,city, beach; Opera House; Harbour Bridge; Bondi Beach,10000,All year,4.8,Sydney Harbour Marriott Hotel
+10,Vancouver,Canada,North America,49.2827,123.1207,city, mountains; Stanley Park; Whistler skiing; cycling,8000,April-October,4.6,Fairmont Pacific Rim Hotel
+11,Tokyo,Japan,Asia,35.6804,139.7721,city, shopping; shrines; parks; food,12000,April & October,4.7,Park Hyatt Tokyo Hotel
+12,Bangkok,Thailand,Asia,13.7563,100.5018,city, temples; cuisine; shopping; Grand Palace,11000,November-April,4.6,Four Seasons Hotel Bangkok
+13,Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,city, beaches; Sugarloaf Mountain; Christ the Redeemer,9000,December-March,4.5,Copacabana Palace Hotel
+14,London,United Kingdom,Europe,51.5074,0.1278,city, Big Ben; Buckingham Palace; shopping,13000,April-September,4.8,The Ritz London
+15,Seoul,South Korea,Asia,37.5665,126.9780,city, palaces; markets; food; karaoke,12000,April; August; October,4.7,Grand Hyatt Seoul
+16,Miami,United States,North America,25.7676,-80.1937,city, beaches; nightlife; shopping,10000,December-April,4.5,Fontainebleau Miami Beach
+17,Las Vegas,United States,North America,36.1699,-115.1398,city, casinos; shows; Grand Canyon,9000,Year round,4.6,Bellagio Las Vegas
+18,Hong Kong,China,Asia,22.3964,114.1095,city, skyscrapers; Victoria Harbour; shopping,15000,October-March,4.7,The Peninsula Hong Kong
+19,Cape Town,South Africa,-33.9248,18.4241,city, beaches; Table Mountain; wine regions,8000,September-May,4.8,One&Only Cape Town
+20,Auckland,New Zealand,-36.8484,174.7633,city, harbors; parks; islands,7000,October-May,4.5,Sky City Grand Hotel Auckland
+21,Amsterdam,Netherlands,Europe,52.3730,4.8935,city, canals; museums; breweries,11000,April-September,4.6,AMSTERDAM - Waldorf Astoria
+22,Marrakesh,Morocco,Africa,31.6331,-7.9919,city, palaces; spice markets; cuisine,7000,October-May,4.5,Sofitel Marrakech Palmeraie
+23,Barcelona,Spain,Europe,41.3851,2.1734,city, Gaudi architecture; Las Ramblas; beaches,12000,April-September,4.7,DO Barceló Sants
+24,Dubrovnik,Croatia,Europe,42.6525,18.0962,city, medieval walls; islands; seaside,8000,April-October,4.8,Hotel Excelsior Dubrovnik
+25,Istanbul,Turkey,Asia,41.0082,28.9784,city, Hagia Sophia; Blue Mosque; bazaars,11000,April; September-November,4.6,Four Seasons Hotel Istanbul at Sultanahmet
+26,Crete,Greece,Europe,35.3345,24.7336,island, beaches; hiking in Samaria Gorge; cuisine,7000,May-October,4.5,Elounda Beach Hotel Crete
+27,Rome,Italy,Europe,41.9028,12.4964,city, Colosseum; Vatican; food,11000,April-October,4.8,St. Regis Rome
+28,Siem Reap,Cambodia,Asia,13.4,103.867,countryside, Angkor temples; culture,7000,November-April,4.6,Sokha Angkor Resort
+29,Lucerne,Switzerland,Europe,47.0505,8.3054,city, lakes; mountains; culture,8000,May-September,4.7,Hotel Schweizerhof Lucerne
+30,Oslo,Norway,Europe,59.9139,10.7522,city, fjords; culture; cuisine,9000,June-August,4.5,The Thief Oslo
+31,Singapore,Singapore,Asia,1.3521,103.8198,city, gardens; culture; cuisine,13000,All year,4.7,Raffles Singapore
+32,Boston,United States,North America,42.3601,-71.0589,city, universities; parks; history,9000,May-September,4.6,Fairmont Copley Plaza
+33,Santorini,Greece,Europe,36.4164,25.4333,island, caldera views; villages; sunsets,7000,May-October,4.7,Aria Luxury Suites Santorini
+34,New York City,United States,North America,40.7128,-74.0059,city, Broadway; Central Park; Statue of Liberty,12000,April-October,4.8,The Plaza Hotel New York City
+35,Tokyo,Japan,Asia,35.6804,139.7721,city, shopping; shrines; parks; food,12000,April & October,4.7,Park Hyatt Tokyo Hotel
+36,Beijing,China,Asia,39.9042,116.4074,city, Forbidden City; Great Wall; cuisine,13000,April; May;October,4.6,The Peninsula Beijing
+37,Dublin,Ireland,Europe,53.3498,-6.2603,city, Trinity College; St. Patrick's Cathedral,11000,March-June; September-November,4.5,The Westin Dublin
+38,Florence,Italy,Europe,43.7695,11.2558,city, Uffizi Gallery; Duomo; Ponte Vecchio,12000,April-October,4.8,Brunelleschi Hotel Florence
+39,Munich,Germany,Europe,48.1351,11.5753,city, castles; breweries; culture,11000,April-October,4.8,Bayerischer Hof Munich
+40,Santiago,Chile,-33.4501,-70.6667,city, Andes mountains; culture,9000,October-April,4.5,W Santiago Hotel
+41,Venice,Italy,Europe,45.4392,12.3155,city, canals; architecture; gondolas,12000,May-September,4.8,Hotel Danieli-a Luxury Collection Hotel-Venice
+42,Quebec City,Canada,North America,46.8139,-71.2027,city,architecture; culture; cuisine,9000,May-October,4.6,Fairmont Le Chateau Frontenac
+43,Copenhagen,Denmark,Europe,55.6761,12.5683,city, architecture; Nyhavn waterfront; cycling,11000,May-September,4.7,The Square Copenhagen
+75,Zermatt,Switzerland,Europe,46.0195,7.8457,mountains, hiking; skiing,7000,June-September,4.9,Hotel Monte Rosa Zermatt
+100,Tel Aviv,Israel,Asia,32.0853,34.7818,city, beaches; culture; nightlife,14000,March-October,4.5,The National Hotel Tel Aviv
+101,Jerusalem,Israel,Asia,31.7783,35.2136,city,Old City; religion; culture,12000,March-October,4.6,King David Hotel Jerusalem
+102,Reykjavik,Iceland,Europe,64.1425,-21.9341,city,Northern Lights; geothermal pools,11000,March-July; September-November,4.5,Hilton Reykjavik Nordica
+103,Edinburgh,Scotland,Europe,55.9533,-3.1883,city, architecture; Festivals; Fringe,12000,May-August,4.8,Waldorf Astoria Edinburgh
+104,Nashville,United States,North America,36.1659,-86.7844,city, music; BBQ; Ryman Auditorium,9000,March-October,4.6,The Thompson Nashville
+105,Rome,Italy,Europe,41.9028,12.4964,city,Colosseum; Vatican,11000,April-October,4.8,St. Regis Rome
+106,Kyoto,Japan,Asia,35.0161,135.7680,city,temples; gardens; geisha,12000,March-May; October-December,4.7,Tawaraya Ryokan
+107,San Francisco,United States,North America,37.7749,-122.4194,city,Golden Gate Bridge; cable cars,12000,March-September,4.8,Fairmont San Francisco
+108,Zurich,Switzerland,Europe,47.3769,8.5417,city,Lake Zurich; banking culture,11000,March-October,4.7,The Dolder Grand
+109,Amsterdam,Netherlands,Europe,52.3730,4.8935,city,canals; museums; breweries,11000,April-September,4.6,Hotel Okura Amsterdam
+110,Munich,Germany,Europe,48.1351,11.5753,city,castles; breweries; culture,11000,April-October,4.8,Hotel Bayerischer Hof
+111,Seattle,United States,North America,47.6062,-122.3320,city,Pike Place Market; coffee culture,12000,April-October,4.7,Fairmont Olympic Hotel
+112,Manchester,United Kingdom,Europe,53.4808,-2.2426,city,culture; football; music,13000,March-October,4.5,Lowry Hotel Manchester
+113,Berlin,Germany,Europe,52.5233,13.4113,city,Brandenburg Gate; culture; nightlife,14000,March-October,4.6,Hotel Adlon Kempinski Berlin
+114,Buenos Aires,Argentina,-34.6117,-58.4173,city,tango; steak; architecture,10000,March-August,4.7,Palacio Duhau - Park Hyatt Buenos Aires
+115,Montreal,Canada,North America,45.5017,-73.5672,city,Notre Dame Basilica; culture,11000,May-October,4.6,Sofitel Montreal Golden Mile
+116,Chicago,United States,North America,41.8781,-87.6298,city,"The Bean";blues;architecture,12000,April-October,4.7,Four Seasons Hotel Chicago
+117,Melbourne,Australia,-37.8136,144.9631,city,culture; coffee; parks,12000,October-March,4.8,The Langham Melbourne
+118,Brussels,Belgium,Europe,50.8505,4.3517,city,chocolate; architecture; EU,13000,March-September,4.5,Amigo Hotel Brussels
+119,Philadelphia,United States,North America,39.9523,-75.1652,city,Independence Hall; cheesesteaks,11000,April-October,4.6,Ritz-Carlton Philadelphia
+120,Athens,Greece,Europe,37.9838,23.7275,city,Acropolis; Plaka district; islands,10000,April-October,4.8,Hotel Grande Bretagne
+121,Venice,Italy,Europe,45.4392,12.3155,city,canals; architecture; gondolas,12000,May-September,4.8,Hotel Danieli-a Luxury Collection Hotel-Venice
+122,Dubai,United Arab Emirates,Asia,25.2048,55.2708,city,shopping malls; beaches; skyscrapers,14000,November-March,4.5,Burj Al Arab
